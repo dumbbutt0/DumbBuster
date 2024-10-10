@@ -1,6 +1,6 @@
 # DumbBuster
 DumbBuster is a simple directory brute-force tool written in C++. It attempts to discover hidden directories and files on a target web server by iterating through a wordlist of potential paths.
-![DumbBuster Demo](/demo.gif)
+
 
 ## Features
 
@@ -114,7 +114,7 @@ http://example.com/secret/ doesn't exist
 
 - **Valid paths** are displayed in **green**.
 - **Invalid paths** are displayed in **red**.
-
+![DumbBuster Demo](/buster.png)
 ## Compilation Issues
 
 If you encounter linker errors related to missing libraries (e.g., `undefined reference to 'curl_easy_init'`), ensure that you have all the required dependencies installed and linked correctly.
