@@ -148,7 +148,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Disclaimer
 
 This tool is intended for educational purposes only. Unauthorized use on servers without permission is illegal and unethical. Use this tool responsibly.
-
----
-
-**Note**: Replace `https://github.com/yourusername/dumbbuster.git` with the actual URL of your GitHub repository, and update any placeholders like `yourusername` or `LICENSE` as appropriate.
